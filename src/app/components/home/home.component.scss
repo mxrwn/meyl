@@ -1,0 +1,16 @@
+.content{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    box-sizing: border-box;
+    .left{
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        img{
+            width: 100%;
+        }
+    }
+}

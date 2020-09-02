@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 887.28 427.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Dégradé_sans_nom_10);
+      }
+
+      .cls-2 {
+        fill: url(#Dégradé_sans_nom_11);
+      }
+
+      .cls-3 {
+        fill: url(#Dégradé_sans_nom_5);
+      }
+
+      .cls-4 {
+        fill: #3cbbb1;
+      }
+
+      .cls-5 {
+        fill: url(#Dégradé_sans_nom_19);
+      }
+
+      .cls-6 {
+        fill: url(#Dégradé_sans_nom_18);
+      }
+
+    </style>
+    <linearGradient id="Dégradé_sans_nom_10" x1="30.42" y1="409.56" x2="169.26" y2="71.5"
+      gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3cbbb1" />
+      <stop offset="0.44" stop-color="#2d9187" />
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_11" x1="43.36" y1="125.37" x2="655.92" y2="423.36"
+      gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3cbbb1" />
+      <stop offset="0.59" stop-color="#2d9187" />
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_5" x1="272.62" y1="390.13" x2="894.49" y2="112.09"
+      gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3cbbb1" />
+      <stop offset="1" stop-color="#2d9187" />
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_19" x1="465.58" y1="-17.95" x2="195.57" y2="128.85"
+      gradientUnits="userSpaceOnUse">
+      <stop offset="0.02" stop-color="#ff6b6b" />
+      <stop offset="1" stop-color="#e03232" />
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_18" x1="674.53" y1="8.61" x2="619.33" y2="79.82"
+      gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff6b6b" />
+      <stop offset="1" stop-color="#e03232" />
+    </linearGradient>
+  </defs>
+  <g id="Calque_2" data-name="Calque 2">
+    <g id="Calque_1-2" data-name="Calque 1">
+      <polygon class="cls-1" points="221.06 427.83 0 427.83 0 1.16 221.06 104.7 221.06 427.83" />
+      <polygon class="cls-2" points="0 1.16 0 222.21 443.64 427.83 681.2 317.72 0 1.16" />
+      <polygon class="cls-3" points="887.28 1.16 887.28 222.21 443.64 427.83 206.07 317.72 887.28 1.16" />
+      <polygon class="cls-4" points="887.28 427.83 666.22 427.83 666.22 103.88 887.28 1.16 887.28 427.83" />
+      <polygon class="cls-5" points="473.33 1.16 0 2.25 443.64 207.86 681.2 97.76 473.33 1.16" />
+      <polygon class="cls-6" points="833.63 0 473.33 1.16 681.2 97.76 887.28 1.16 833.63 0" />
+    </g>
+  </g>
+</svg>
